@@ -1,0 +1,81 @@
+body{
+    background-color: gray;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.equipe{
+    position: relative;
+    float: left;
+}
+.sin{
+    position: relative;
+    left: 50px;
+    border: none;
+
+}
+.sinopse{
+
+    word-break: break-word;
+    padding: 1px;
+    width: 700px;
+    margin: 1 auto;
+    font-family: arial;
+    font-size: 18pt;
+}
+.info{
+    word-break: break-word;
+    padding: 1px;
+    width: 600px;
+    margin: 1 auto;
+    font-family: arial;
+}
+.text1{
+    word-break: break-word;
+    width: 1px ;
+    margin: 1 auto;
+    padding: 1px;
+    margin-top: 50px;
+
+}
+.homenagem{
+    position: relative;
+    align-items: center; 
+    left: 170px; 
+}
+.teste{
+    position: relative;
+    left: 35px;
+    border: none;
+    
+    
+}
+.text2{
+    position: relative;
+    left: 100px;
+    border: none;
+
+   
+}
+.premio{
+    border: none;
+    position: relative;
+    left: 150px;
+    margin-top: 50px;
+}
+.video_premio{
+    position: relative;
+    left: 390px;
+}
+.premio1{
+    margin-top: 70px;
+}
+.pedro{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+

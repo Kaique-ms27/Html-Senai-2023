@@ -1,2 +1,2 @@
-# Html-Senai-2023
-Repositório da disciplina de Linguagem de Marcação do Senai
+# Exercicios 24/03
+ Exercícios feito no dia 24/03/2023 em aula no senai
